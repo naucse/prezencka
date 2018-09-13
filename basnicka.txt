@@ -1,0 +1,29 @@
+<<<<<<< HEAD
+﻿Ahoj to je název
+Autor: autor
+=======
+﻿Talíře a vějíře
+>>>>>>> jmeno-jmeno
+
+Talíř světa se kymácí,
+vesmír je plání nekonečnou,
+hrom do taktu si burácí,
+fantazie paletou nevypletou.
+
+Svět se zdá být příliš velký,
+prach z hvězd padá nehlučně,
+život je jako pramínek vlasu tenký,
+slova bohů jsou slova výbušné.
+
+Rozměrnost vesmíru se nedá definovat
+začíná odnikud a končí nikde...
+
+text text text text
+
+text text text text
+
+text text text text
+
+text text text text
+
+text text text text
