@@ -1,2 +1,0 @@
-Samouk se samoučí používat GitHub a tedy přidává své jméno do prezenčky.
-Tímto budiž navěky známo, že Jakub Stránský se učí python díky PyLadies.
